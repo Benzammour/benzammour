@@ -1,6 +1,6 @@
 # Hey there, nice to meet you! 👋🏼 
 <img src="https://github.com/Benzammour/benzammour/blob/master/assets/banner.png">
-I'm a software developer based in Germany who is passionate about creating things. Some things I'm currently busy with include my bachelors thesis which focuses on networking, as well as extending my knowledge about web technologies.
+I'm a software developer based in Germany who is passionate about creating things. Some things I'm currently busy with include my bachelors thesis which focuses on networking, as well as extending my knowledge on web technologies.
 <br>
 Over the past few years I've also developed a love for cooking and the gym which enables me to wind down at the end of the day.
 
