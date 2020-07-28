@@ -9,4 +9,4 @@ Over the past few years I've also developed a love for cooking and the gym which
 
 [<img src="https://benzammour.com/imgs/favico.ico" width="15px"> My Website](https://benzammour.com)
 
-[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="15px"> LinkedIn](https://linkedin.com/benzammour)
+[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="15px"> LinkedIn](https://www.linkedin.com/in/samir-benzammour/)
